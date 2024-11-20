@@ -1,6 +1,3 @@
-Here’s the content formatted as a `.md` file. You can save it as `README.md` in your repository:
-
-```markdown
 # Aba-Shirts 🛍️
 
 **Aba-Shirts** is a modern e-commerce web application built with React. The platform specializes in the sale of high-quality shirts crafted in Aba, Abia State, Nigeria. Our mission is to showcase the craftsmanship of Aba's fashion industry and make these products accessible locally and nationally.
@@ -51,4 +48,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy shopping with **Aba-Shirts** and support locally crafted fashion! 😊
-```
